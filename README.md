@@ -6,9 +6,9 @@ This is not an immediately deployable version of the website - [docpad](http://d
 
 # To Build Locally
 
-1. Install DocPad if it isn't already installed: `sudo npm install -g docpad`
+1. Install DocPad if it isn't already installed using this command: `sudo npm install -g docpad`
 
-2. Get the required node modules: `npm install`
+2. Get the required node modules using this command: `npm install`
 
 3. Edit `docpad.coffee` URL value to reflect your target URL (with no trailing slash). The default value is `http://localhost:9778`. For local testing and development, you should keep this default value.
 
